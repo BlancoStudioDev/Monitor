@@ -1,0 +1,9 @@
+2026/04/27-22:05:25.270 b721b8 Reusing MANIFEST /Users/blanco05/Desktop/Lavoro/code/PlayGround/scraping/reuters/.chrome_scraper_profile/Default/IndexedDB/https_www.reuters.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/27-22:05:25.270 b721b8 Recovering log #4
+2026/04/27-22:05:25.274 b721b8 Reusing old log /Users/blanco05/Desktop/Lavoro/code/PlayGround/scraping/reuters/.chrome_scraper_profile/Default/IndexedDB/https_www.reuters.com_0.indexeddb.leveldb/000004.log 
+2026/04/27-22:06:41.952 b721bb Level-0 table #8: started
+2026/04/27-22:06:41.966 b721bb Level-0 table #8: 4182290 bytes OK
+2026/04/27-22:06:41.971 b721bb Delete type=0 #4
+2026/04/27-22:09:13.532 b721bb Level-0 table #10: started
+2026/04/27-22:09:13.541 b721bb Level-0 table #10: 4174811 bytes OK
+2026/04/27-22:09:13.550 b721bb Delete type=0 #7

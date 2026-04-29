@@ -1,0 +1,4 @@
+FlagEmbedding
+chromadb
+numpy
+torch

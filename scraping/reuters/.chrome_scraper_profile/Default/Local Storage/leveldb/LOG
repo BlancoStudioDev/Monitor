@@ -1,0 +1,23 @@
+2026/04/27-22:05:12.503 b72212 Reusing MANIFEST /Users/blanco05/Desktop/Lavoro/code/PlayGround/scraping/reuters/.chrome_scraper_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/27-22:05:12.505 b72212 Recovering log #6
+2026/04/27-22:05:12.505 b72212 Reusing old log /Users/blanco05/Desktop/Lavoro/code/PlayGround/scraping/reuters/.chrome_scraper_profile/Default/Local Storage/leveldb/000006.log 
+2026/04/27-22:06:12.507 b72215 Level-0 table #10: started
+2026/04/27-22:06:12.512 b72215 Level-0 table #10: 35660 bytes OK
+2026/04/27-22:06:12.515 b72215 Delete type=0 #6
+2026/04/27-22:08:34.526 b72215 Level-0 table #12: started
+2026/04/27-22:08:34.533 b72215 Level-0 table #12: 30517 bytes OK
+2026/04/27-22:08:34.537 b72215 Delete type=0 #9
+2026/04/27-22:08:34.543 b72215 Compacting 4@0 + 0@1 files
+2026/04/27-22:08:34.547 b72215 Generated table #13@0: 135 keys, 22291 bytes
+2026/04/27-22:08:34.547 b72215 Compacted 4@0 + 0@1 files => 22291 bytes
+2026/04/27-22:08:34.548 b72215 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/27-22:08:34.548 b72215 Delete type=2 #3
+2026/04/27-22:08:34.548 b72215 Delete type=2 #7
+2026/04/27-22:08:34.548 b72215 Delete type=2 #12
+2026/04/27-22:08:34.548 b72215 Delete type=2 #10
+2026/04/27-22:10:24.780 b72215 Level-0 table #15: started
+2026/04/27-22:10:24.789 b72215 Level-0 table #15: 27771 bytes OK
+2026/04/27-22:10:24.795 b72215 Delete type=0 #11
+2026/04/28-14:19:05.066 b72215 Level-0 table #17: started
+2026/04/28-14:19:05.070 b72215 Level-0 table #17: 26252 bytes OK
+2026/04/28-14:19:05.073 b72215 Delete type=0 #14
